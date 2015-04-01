@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<httml>
+<head>
+    <title> Simple Form Validation </title>
+     <script>
+       window .onload = function (){
+           console.log('onload');
+           var
+       }
